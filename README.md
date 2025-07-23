@@ -1,6 +1,6 @@
-# React JS Calculator
+# React Pomodoro Clock
 
-Un petit projet de calculatrice réalisé en **ReactJS**.  
+Un petit projet d'un pomodoro (minuteur 25 + 5) réalisé en **ReactJS**.  
 
 ## 🧠 Fonctionnalités
 
