@@ -4,7 +4,7 @@ Un petit projet d'un pomodoro (minuteur 25 + 5) réalisé en **ReactJS**.
 
 ## 🧠 Fonctionnalités
 
-⏱️ - Minuteur personnalisable pour les sessions de travail et les pauses
+⏱️ - Minuteur personnalisable pour les sessions de travail (25 min de base) et les pauses (5 min de base)
 
 🔁 - Transitions automatiques entre Pomodoro, pause courte et pause longue
 
